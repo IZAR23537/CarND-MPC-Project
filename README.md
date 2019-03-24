@@ -2,7 +2,7 @@
 Self-Driving Car Engineer Nanodegree Program
 
 [//]: # (Image References)
-[image1]: ./Images/Model_predictive_control_setup.JPG "MPC"
+[image1]: ./Images/Model_predictive_control_setup.jpg "MPC"
 
 ## Overwiew
 
